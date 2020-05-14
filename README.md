@@ -14,7 +14,7 @@ systems have the ability to predict if a user may be interested
 in certain items based on their profile. </p>
 
 <p>I have built a recommendation system of my own. Since data was not readily available, I scraped data Edulix.com.
-The CSV file is present here named "allUsersFinal.csv". The file is present in both .py and .ipynb format.</p>
+The CSV file is present here named "allUsersFinal.csv". The file is present in .ipynb format.</p>
 
 ## Structure of data
 53,645 entries finally compiled.  
